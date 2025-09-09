@@ -1,2 +1,2 @@
-# pendeteksi-kesegaran-ikan-tuna-
-aplikasi web
+# Sistem Deteksi Kesegaran Ikan Tuna
+Aplikasi deteksi menggunakan YOLOv8 & Roboflow.
